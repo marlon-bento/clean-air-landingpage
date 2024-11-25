@@ -31,7 +31,7 @@ onMounted(() => {
 </script>
 
 <template>
-  <header class="sticky-top header">
+  <header class="fixed-top header">
     <nav class="navbar navbar-expand-lg" id="nav-header">
       <div class="container-fluid">
         <RouterLink to="/" class="navbar-brand d-flex gap-2">
