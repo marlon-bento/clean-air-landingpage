@@ -4,12 +4,16 @@ import Header from './components/Header.vue';
 </script>
 
 <template>
-
-  <Header></Header>
+  <div>
+    <Header></Header>
   
   <RouterView />
+    </div>
+  
 </template>
 
 <style scoped>
-
+div{
+  overflow-x: hidden;
+}
 </style>
