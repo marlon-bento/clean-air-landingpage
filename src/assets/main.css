@@ -1,0 +1,16 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+body{
+  background-color: #030B15;
+}
+*{
+  box-sizing: border-box;
+
+}
+:root{
+  --cor-azul:#00C4F4;
+  --cor-azul-hover:#145c6e;
+  --cor-cinza:#CFCFCF;
+}
+.bold{
+  font-weight: bold;
+}
