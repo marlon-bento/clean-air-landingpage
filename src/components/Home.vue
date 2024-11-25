@@ -23,7 +23,7 @@ import Beneficios from "./Beneficios.vue";
 
 <style scoped>
 div{
-   margin-top:100px;
+   margin-top:70px;
 }
 
 </style>
